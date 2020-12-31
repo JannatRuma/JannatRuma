@@ -11,8 +11,7 @@ Hi! I'm Jannat Binta Alam... 👋
 - 🥅 2021 Goals: 
 -   🥅  Frontend: JS, AngularJS, ReactJS (in advance level)
 -   🥅  Backend: JAVA, NodeJS, Pyhon (in advance level) 
--   🥅  Others: Architecture, Design Pattern & Business Domain 
--               in depth with practical implimentation of so many projects.
+-   🥅  Others: Architecture, Design Pattern & Business Domain in depth with practical implimentation of so many projects.
 
 - ⚡ Fun fact: I love painting, travelling, writing poem and so many things.
 
