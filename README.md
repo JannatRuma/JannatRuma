@@ -5,7 +5,7 @@ Hi! I'm Jannat Binta Alam... 👋
 ## Programmer | Web Developer | Tech Enthusiast
 ---
 
-- 🔭 I'm currently working, learning and gathering experience from [Southtech Group](https://www.southtechgroup.com/).
+- 🔭 I'm currently working (banking & microfinance), learning and gathering experience from [Southtech Group](https://www.southtechgroup.com/).
 - 🌱 I love to learn each and everything! 🤣
 - 🥅 2021 Goals: 
 -   🥅  Frontend: JS, AngularJS, ReactJS (in advance level)
