@@ -18,7 +18,7 @@ Hi! I'm Jannat Binta Alam... 👋
 ---
 
 ## 📫 Connect me:
-[LinkedIn](https://www.linkedin.com/in/jannatbintaalam/) || [Email](jannat.cse.ewu@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/jannatbintaalam/) || [Email](jannat.cse.ewu@gmail.com) || [Facebook](https://www.facebook.com/jannat.ruma.7/)
 
 ## My Resume:
 [Resume](https://github.com/JannatRuma/resume/blob/master/Resume_Jannat_Binta_Alam.pdf) 
