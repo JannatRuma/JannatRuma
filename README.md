@@ -5,7 +5,7 @@ Hi! I'm Jannat Binta Alam... 👋
 ## Programmer | Software Developer | Tech Enthusiast
 ---
 
-- 🔭 I'm currently working [EY](https://www.ey.com/en_gl/locations/bangladesh) and before that have been worked in (banking & microfinance domain), custom software development with [Southtech Group](https://www.southtechgroup.com/) and [OneIT](https://oneit.com.au/).
+- 🔭 I'm currently working in [EY](https://www.ey.com/en_gl/locations/bangladesh) and before that have been worked in (banking & microfinance domain), custom software development with [Southtech Group](https://www.southtechgroup.com/) and [OneIT](https://oneit.com.au/).
 - 🌱 I love to learn each and everything! 🤣
 - 🥅 2022 Goals: 
 -   🥅  Frontend: JS, AngularJS, ReactJS, Angular (in advance level)
