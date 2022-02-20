@@ -7,8 +7,8 @@ Hi! I'm Jannat Binta Alam... 👋
 
 - 🔭 I'm currently working (banking & microfinance), learning and gathering experience from [Southtech Group](https://www.southtechgroup.com/).
 - 🌱 I love to learn each and everything! 🤣
-- 🥅 2021 Goals: 
--   🥅  Frontend: JS, AngularJS, ReactJS (in advance level)
+- 🥅 2022 Goals: 
+-   🥅  Frontend: JS, AngularJS, ReactJS, Angular (in advance level)
 -   🥅  Backend: JAVA, NodeJS, Pyhon (in advance level) 
 -   🥅  Others: Problem Solving, Architecture, Design Pattern & Business Domain in depth with practical implimentation of so many projects.
 - ⚡ Fun fact: I love painting, travelling, writing poem and so many things.
