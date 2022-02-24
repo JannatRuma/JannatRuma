@@ -1,8 +1,7 @@
 
 Hi! I'm Jannat Binta Alam... 👋
+<p align="rught"> <img src="https://komarev.com/ghpvc/?username=JannatRuma&label=Views&color=blue&style=plastic" alt="JannatRuma" /> </p>
 ---
-<p align="top"> <img src="https://komarev.com/ghpvc/?username=JannatRuma&label=Views&color=blue&style=plastic" alt="JannatRuma" /> </p>
-
 ## Programmer | Software Developer | Tech Enthusiast
 ---
 
