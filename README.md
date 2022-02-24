@@ -3,6 +3,7 @@ Hi! I'm Jannat Binta Alam... 👋
 ---
 
 ## Programmer | Software Developer | Tech Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JannatRuma&label=Views&color=blue&style=plastic" alt="JannatRuma" /> </p>
 ---
 
 - 🔭 I'm currently working in [EY](https://www.ey.com/en_gl/locations/bangladesh) and before that have been worked in (banking & microfinance domain), custom software development with [Southtech Group](https://www.southtechgroup.com/) and [OneIT](https://oneit.com.au/).
@@ -23,3 +24,7 @@ Hi! I'm Jannat Binta Alam... 👋
 
 📕 Latest Projects:⚡ you will get in my Portfolio!
      [Portfolio](https://jannatruma.github.io/home/)
+
+<a href="https://github.com/JannatRuma">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=JannatRuma&show_icons=true&theme=light&count_private=true" alt="Jannat's github stats"/>
+</a>
