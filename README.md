@@ -1,13 +1,13 @@
 
 Hi! I'm Jannat Binta Alam... 👋
 ---
-## Programmer | Software Developer | Tech Enthusiast
+## Programmer | Software Engineer | Product Manager | Tech Enthusiast 
 ---
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=JannatRuma&label=Views&color=blue&style=plastic" alt="JannatRuma" /> </p>
 
 - 🔭 I'm currently working in [EY](https://www.ey.com/en_gl/locations/bangladesh) and before that have been worked in (banking & microfinance domain), custom software development with [Southtech Group](https://www.southtechgroup.com/) and [OneIT](https://oneit.com.au/).
 - 🌱 I love to learn each and everything! 🤣
-- 🥅 2022 Goals: 
+- 🥅 2024 Goals: 
 -   🥅  Frontend: JS, AngularJS, ReactJS, Angular (in advance level)
 -   🥅  Backend: JAVA, NodeJS, Pyhon (in advance level) 
 -   🥅  Others: Problem Solving, Architecture, Design Pattern & Business Domain in depth with practical implimentation of so many projects.
