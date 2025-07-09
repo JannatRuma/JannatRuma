@@ -7,13 +7,13 @@ Hi! I'm Jannat Binta Alam... 👋
 
 - 🔭 I'm currently working in [EY](https://www.ey.com/en_gl/locations/bangladesh) and before that have been worked in (banking & microfinance domain), custom software development with [Southtech Group](https://www.southtechgroup.com/) and [OneIT](https://oneit.com.au/).
 - 🌱 I love to learn each and everything! 🤣
-- 🥅 2025 Goals: 
+2025 Goals: 
 -   🥅  Frontend: ReactJS, Angular (in advance level)
 -   🥅  Backend: JAVA, Pyhon (in advance level) 
 -   🥅  Others: AI and ML, Problem Solving, Architecture, Design Pattern & Business Domain in depth with practical implimentation in projects.
 - ⚡ Fun fact: I love painting, crafting, travelling, writing poem, reciting, gardening, and explore variety of things.
 
-- 🥅 Completed Goals in 2024:
+Completed Goals in 2024:
 -   🥅  Frontend: Angular (in advance level)
 -   🥅  Backend: NodeJS
 
